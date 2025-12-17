@@ -55,4 +55,18 @@ export const FRIENDS_DATA: Record<string, { displayName: string; archetype: stri
     note: 'You have made me look within and consider my relationship with you as my sister but also as my friend. Thank you for holding space for me and know that I will always be here to hold space for you too.', 
     wish: 'As we get into the new year, I see a stronger version of you and I see the universe finally pampering you like you deserve. As you learn to be softer with yourself so will the world be softer to you.'
   },
+  wacuka: { 
+    displayName: 'Wacuka', 
+    archetype: 'The Bubbly Friend', 
+    archetypeDescription:'You are a happy woman. Always smiling, and always happy. You are amazing company and we see the effort you put, not only in your work but even with yourself.', 
+    note: 'Being your friend means the world to me. I love that you know exactly what you want and go for it head on. Atleast from what I have seen. I love the amount of laughter there is when you are around.',
+    wish: 'May the new year come with even more abundance and ease for you. May this be the year you find out how soft life can get and may it help make that smile wider.'
+  },
+  valeria: { 
+    displayName: 'Valeria', 
+    archetype: 'The Entrepreneur', 
+    archetypeDescription: 'The first time we met you were just starting tech sisters with a small group of women. I have watched you grow, not just yourself but an amazing community of techies, in all fields. I love how open you are to new opportunities and the fun vibe you bring to any space you are in. You are a role model to many, me included.', 
+    note: 'Being your friend means evaluating what value I am bringing to the society. It means trying to push myself as hard as possible, if only to be a success that comes from your baby. Thank you for being the visionary you are.', 
+    wish: 'May the new year open doors for you, even those you didn not knock on. I pray the Tech sisters brand thrives even more. For you I wish the year brings a softness and rest. That you get to experience abandunce in its raw form.'
+  },
 };
